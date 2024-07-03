@@ -2,6 +2,8 @@ Fastify Upload Service
 
 This project provides a Fastify server with a route to upload files and/or text values. The uploaded files are saved in the uploads directory, and any text values are processed and included in the response.
 
+PreRequisite
+Create a folder named uploads under fastify-upload
 
 API Endpoint
 Upload a File or Text Value
